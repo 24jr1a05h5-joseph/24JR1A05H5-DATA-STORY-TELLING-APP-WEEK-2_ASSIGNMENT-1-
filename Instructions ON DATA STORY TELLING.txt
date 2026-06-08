@@ -1,0 +1,7 @@
+Quick Run Instructions
+Install Python 3.9+.
+Open Terminal/Command Prompt.
+Install required packages:
+pip install pandas plotly
+Run the application:
+python data_story_telling_app_week_2.py
